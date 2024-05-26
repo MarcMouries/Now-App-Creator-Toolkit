@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8e161287c3d68a1016eb2385e001318a" extends="task" label="UIB Form Button Setup" max_length="40" name="x_creator_toolkit_uib_form_button_setup" type="collection">
+        <element label="Workspace" max_length="32" name="workspace" reference="sys_ux_page_registry" reference_qual="javascript:&quot;sys_scope=&quot; + current.application&#10;&#10;" type="reference" use_dependent_field="true" use_reference_qualifier="advanced"/>
+        <element label="Application" mandatory="true" max_length="32" name="application" reference="sys_app" type="reference"/>
+    </element>
+</database>

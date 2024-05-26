@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Submission</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Marc.Mouries</sys_created_by>
+        <sys_created_on>2024-05-25 19:28:52</sys_created_on>
+        <sys_id>74a696c7c3d68a1016eb2385e0013133</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submission</sys_name>
+        <sys_package display_value="App Creator Toolkit" source="x_creator_toolkit">95ae8b53dbb542d0df8762dc13961937</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App Creator Toolkit">95ae8b53dbb542d0df8762dc13961937</sys_scope>
+        <sys_update_name>sys_ui_view_74a696c7c3d68a1016eb2385e0013133</sys_update_name>
+        <sys_updated_by>Marc.Mouries</sys_updated_by>
+        <sys_updated_on>2024-05-25 19:28:52</sys_updated_on>
+        <title>Submission</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
